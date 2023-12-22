@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" alt="coding" width="400 src="https://github.com/neerajkumar96/neerajkumar96/blob/main/python-2.gif"
+<img align="right" alt="coding" width="400 src="python-2.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajkumar96&label=Profile%20views&color=0e75b6&style=flat" alt="neerajkumar96" /> </p>
 
