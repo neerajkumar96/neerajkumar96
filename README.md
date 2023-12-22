@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" alt="coding" width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4502924-Python-developer-animation&psig=AOvVaw3XofIlxrAUM-9g2OmWg0GU&ust=1703340222063000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiA8P2ao4MDFQAAAAAdAAAAABAE"
+<img align="right" alt="coding" width="200" src="![image](https://github.com/neerajkumar96/neerajkumar96/assets/109292659/211951da-9915-45e7-a8ec-9fd799fa3e50)
+"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajkumar96&label=Profile%20views&color=0e75b6&style=flat" alt="neerajkumar96" /> </p>
