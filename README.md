@@ -1,4 +1,4 @@
-![logo](https://github.com/neerajkumar96/neerajkumar96/blob/main/2.png)
+
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
