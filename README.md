@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" alt="coding" width="200" height="200" src="![image](https://github.com/neerajkumar96/neerajkumar96/assets/109292659/211951da-9915-45e7-a8ec-9fd799fa3e50)
+<[image](https://github.com/neerajkumar96/neerajkumar96/assets/109292659/211951da-9915-45e7-a8ec-9fd799fa3e50)
 "
 
 
